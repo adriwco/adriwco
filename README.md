@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Adriano Weverton ✨
 
 - 📖 Cursando bacharelado em <a href="https://pt.wikipedia.org/wiki/Sistema_de_informa%C3%A7%C3%A3o">Sistemas de Informação</a>.
-- 🔭 Entrando no mundo do front-end.
+- 🔭 Entrando no mundo do <a href="https://en.wikipedia.org/wiki/Front-end_web_development">front-end</a>.
 - 🌱 Estudando HTML5, CSS3 e ES6+.
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adriwco@gmail.com)
