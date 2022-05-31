@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Adriano Weverton ✨
 
-- 📖 Cursando bacharelado em Sistemas de Informação.
+- 📖 Cursando bacharelado em <a href="https://pt.wikipedia.org/wiki/Sistema_de_informa%C3%A7%C3%A3o">Sistemas de Informação</a>.
 - 🔭 Entrando no mundo do front-end.
 - 🌱 Estudando HTML5, CSS3 e ES6+.
 
