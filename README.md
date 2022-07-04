@@ -17,8 +17,7 @@
     <a href="https://pt.wikipedia.org/wiki/Visual_Studio_Code"><img align="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a>
 </div>
 
-### Project List
-
+#### Project List
 - [x] projeto-portfólio
 - [x] formulário-simples
 - [x] calculadora-aritmetica
