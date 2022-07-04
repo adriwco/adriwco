@@ -18,10 +18,10 @@
 </div>
 
 #### Project List
-- [x] <a href="https://github.com/adriwco/projeto-portfolio" target="_blank">projeto-portfólio</a> 
-- [x] <a href="https://github.com/adriwco/formulario-simples" target="_blank">formulário-simples</a>
-- [x] <a href="https://github.com/adriwco/calculadora-aritmetica" target="_blank">calculadora-aritmetica</a>
-- [x] <a href="https://github.com/adriwco/calculadora-imc" target="_blank">calculadora-imc</a>
+- [x] <a href="https://github.com/adriwco/projeto-portfolio">projeto-portfólio</a> 
+- [x] <a href="https://github.com/adriwco/formulario-simples">formulário-simples</a>
+- [x] <a href="https://github.com/adriwco/calculadora-aritmetica">calculadora-aritmetica</a>
+- [x] <a href="https://github.com/adriwco/calculadora-imc">calculadora-imc</a>
 - [ ] listar-tarefas
 - [ ] relogio-js
 - [ ] jogo-da-velha
