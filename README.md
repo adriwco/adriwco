@@ -29,3 +29,4 @@
 - [ ] buscador-temperatura-clima
 - [ ] crud-js
 - [ ] tela-login-cadastro
+- [ ] rede-social-dogs
