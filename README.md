@@ -21,7 +21,7 @@
 - [x] <a href="https://github.com/adriwco/projeto-portfolio">projeto-portfólio</a> 
 - [x] <a href="https://github.com/adriwco/formulario-simples">formulário-simples</a>
 - [x] <a href="https://github.com/adriwco/calculadora-aritmetica">calculadora-aritmetica</a>
-- [x] <a href="https://github.com/adriwco/calculadora-imc">calculadora-imc</a>
+- [x] <a href="https://github.com/adriwco/calculadora-imc">calculadora-imc</a> ⭐
 - [x] <a href="https://github.com/adriwco/bikcraft-simples">estrutura-site-simples</a>
 - [ ] estrutura-site-complexo
 - [ ] listar-tarefas
