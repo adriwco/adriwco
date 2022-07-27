@@ -9,7 +9,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/adriwco)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/oito) </br>
 
-#### Tecnologias que eu uso no meu dia ou noite 😅
+#### Tecnologias que eu uso no meu dia ou noite 😅 (My Skills)
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,git,figma,vscode,discord,github)](https://github.com/adriwco)
 
