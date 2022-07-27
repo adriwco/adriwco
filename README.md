@@ -14,8 +14,8 @@
     <a href="https://pt.wikipedia.org/wiki/HTML5"> <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
     <a href="https://pt.wikipedia.org/wiki/CSS3"><img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
     <a href="https://pt.wikipedia.org/wiki/JavaScript"><img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
-    
-    
+ </div>
+ <div> 
     <a href="https://pt.wikipedia.org/wiki/Git"> <img align="center" alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></a>
     <a href="https://pt.wikipedia.org/wiki/Visual_Studio_Code"><img align="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a>
     <a href="https://pt.wikipedia.org/wiki/Figma"> <img align="center" alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/></a>
