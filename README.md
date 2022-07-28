@@ -11,7 +11,14 @@
 
 #### Tecnologias que eu uso no meu dia ou noite 😅 (My Skills)
 
-![My Skills](https://skills.thijs.gg/icons?i=html,css,js,git,figma,vscode,discord,github)
+[![My Skills](https://skills.thijs.gg/icons?i=html)](https://pt.wikipedia.org/wiki/HTML5)
+[![My Skills](https://skills.thijs.gg/icons?i=css)](https://pt.wikipedia.org/wiki/CSS3)
+[![My Skills](https://skills.thijs.gg/icons?i=js)](https://pt.wikipedia.org/wiki/JavaScript)
+[![My Skills](https://skills.thijs.gg/icons?i=git)](https://pt.wikipedia.org/wiki/Git)
+[![My Skills](https://skills.thijs.gg/icons?i=figma)](https://pt.wikipedia.org/wiki/Figma)
+[![My Skills](https://skills.thijs.gg/icons?i=vscode)](https://pt.wikipedia.org/wiki/Visual_Studio_Code)
+[![My Skills](https://skills.thijs.gg/icons?i=discord)](https://pt.wikipedia.org/wiki/Discord)
+[![My Skills](https://skills.thijs.gg/icons?i=github)](https://pt.wikipedia.org/wiki/GitHub)
 
 #### Project List
 - [x] <a href="https://github.com/adriwco/projeto-portfolio">projeto-portfólio</a> 
