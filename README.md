@@ -12,6 +12,8 @@
 #### Tecnologias que eu uso no meu dia ou noite 😅 (My Skills)
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,git,figma,vscode,discord,github)](https://github.com/adriwco)
+[![My Skills](https://skills.thijs.gg/icons?i=github)](https://github.com/adriwco)
+[![My Skills](https://skills.thijs.gg/icons?i=github)](https://github.com/adriwco)
 
 #### Project List
 - [x] <a href="https://github.com/adriwco/projeto-portfolio">projeto-portfólio</a> 
