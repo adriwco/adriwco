@@ -11,6 +11,9 @@
 
 #### Tecnologias que eu uso no meu dia ou noite 😅 (My Skills)
 
+<a target=”_blank” href="https://en.wikipedia.org/wiki/Front-end_web_development">![My Skills](https://skills.thijs.gg/icons?i=html)</a>
+<a href="https://en.wikipedia.org/wiki/Front-end_web_development">![My Skills](https://skills.thijs.gg/icons?i=html)</a>
+
 [![My Skills](https://skills.thijs.gg/icons?i=html)](https://pt.wikipedia.org/wiki/HTML5)
 [![My Skills](https://skills.thijs.gg/icons?i=css)](https://pt.wikipedia.org/wiki/CSS3)
 [![My Skills](https://skills.thijs.gg/icons?i=js)](https://pt.wikipedia.org/wiki/JavaScript)
