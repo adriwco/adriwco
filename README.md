@@ -26,7 +26,7 @@
 - [x] <a href="https://github.com/adriwco/calculadora-aritmetica">calculadora-aritmetica</a>
 - [x] <a href="https://github.com/adriwco/calculadora-imc">calculadora-imc</a> ⭐
 - [x] <a href="https://github.com/adriwco/bikcraft-simples">estrutura-site-simples</a>
-- [ ] estrutura-site-complexo
+- [ ] estrutura-site-complexo (projeto em andamento)
 - [ ] listar-tarefas
 - [ ] relogio-js
 - [ ] jogo-da-velha
