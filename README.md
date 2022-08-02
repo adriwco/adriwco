@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriweverton/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/adriwco)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/adriwco) </br>
-
+***
 #### Tecnologias que eu uso no meu dia ou noite 😅 (My Skills)
 
 [![My Skills](https://skills.thijs.gg/icons?i=html)](https://pt.wikipedia.org/wiki/HTML5)
@@ -35,12 +35,6 @@
 - [ ] crud-js
 - [ ] tela-login-cadastro
 - [ ] rede-social-dogs
-***
-#### Status
-
-<a href="https://github.com/adriwco/github-readme-stats">
-  <img align="center" width='40%' src="https://github-readme-stats.vercel.app/api?username=adriwco&show_icons=true&theme=dark" />
-</a> &nbsp; 
 <p align="right">
-  <img width="200" src="https://user-images.githubusercontent.com/80191040/182288544-9626fcea-5b47-44b8-ab78-d2d44642b5b2.gif" alt="Astronauta">
+  <img width="250" src="https://user-images.githubusercontent.com/80191040/182288544-9626fcea-5b47-44b8-ab78-d2d44642b5b2.gif" alt="Astronauta">
 </p>
