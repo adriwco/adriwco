@@ -35,6 +35,3 @@
 - [ ] crud-js
 - [ ] tela-login-cadastro
 - [ ] rede-social-dogs
-<p align="right">
-  <img width="250" src="https://user-images.githubusercontent.com/80191040/182288544-9626fcea-5b47-44b8-ab78-d2d44642b5b2.gif" alt="Astronauta">
-</p>
