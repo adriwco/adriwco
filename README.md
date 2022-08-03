@@ -4,10 +4,12 @@
 - 🔭 Entrando no mundo do <a href="https://en.wikipedia.org/wiki/Front-end_web_development">front-end</a>.
 - 🌱 Estudando HTML5, CSS3 e ES6+.
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adriwco@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriweverton/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/adriwco)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/adriwco) </br>
+[![Gmail](https://user-images.githubusercontent.com/80191040/182520105-cb01f78f-d006-4d97-9e25-8847e8084645.png)](mailto:adriwco@gmail.com)
+[![LinkedIn](https://user-images.githubusercontent.com/80191040/182520104-4d6a24bd-24f2-446c-add7-b5f695cfcf2d.png)](https://www.linkedin.com/in/adriweverton/)
+[![Twitter](https://user-images.githubusercontent.com/80191040/182520103-7870eadc-f4f7-4ffe-820d-6ed7555ef779.png)](https://twitter.com/adriwco)
+[![Twitch](https://user-images.githubusercontent.com/80191040/182520098-d4490f0c-5be0-4791-8031-a49744bbf9aa.png)](https://www.twitch.tv/oito)
+[![WhatsApp](https://user-images.githubusercontent.com/80191040/182520099-58ddca7a-e7ff-4aab-abe3-084f6e210e11.png)](https://contate.me/adriwco)
+[![Facebook](https://user-images.githubusercontent.com/80191040/182521363-eeee69e0-f145-4120-a02e-ac831cecb556.png)](https://www.facebook.com/adriwco) 
 ***
 #### Tecnologias que eu uso no meu dia ou noite 😅 (My Skills)
 
