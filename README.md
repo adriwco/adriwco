@@ -10,6 +10,7 @@
 [![Twitch](https://user-images.githubusercontent.com/80191040/182520098-d4490f0c-5be0-4791-8031-a49744bbf9aa.png)](https://www.twitch.tv/oito)
 [![WhatsApp](https://user-images.githubusercontent.com/80191040/182520099-58ddca7a-e7ff-4aab-abe3-084f6e210e11.png)](https://contate.me/adriwco)
 [![Facebook](https://user-images.githubusercontent.com/80191040/182521363-eeee69e0-f145-4120-a02e-ac831cecb556.png)](https://www.facebook.com/adriwco) 
+[![Outlook](https://user-images.githubusercontent.com/80191040/182522131-5dace55d-80dc-4a25-be17-f7dd36bff40e.png)](mailto:adrianoevert@outlook.com) 
 ***
 #### Tecnologias que eu uso no meu dia ou noite 😅 (My Skills)
 
