@@ -3,7 +3,8 @@
 - 📖 Cursando bacharelado em <a href="https://pt.wikipedia.org/wiki/Sistema_de_informa%C3%A7%C3%A3o">Sistemas de Informação</a>.
 - 🔭 Entrando no mundo do <a href="https://en.wikipedia.org/wiki/Front-end_web_development">front-end</a>.
 - 🌱 Estudando HTML5, CSS3 e ES6+.
-
+***
+#### :earth_africa: Redes Sociais :earth_americas:
 [![Gmail](https://user-images.githubusercontent.com/80191040/182520105-cb01f78f-d006-4d97-9e25-8847e8084645.png)](mailto:adriwco@gmail.com)
 [![LinkedIn](https://user-images.githubusercontent.com/80191040/182520104-4d6a24bd-24f2-446c-add7-b5f695cfcf2d.png)](https://www.linkedin.com/in/adriweverton)
 [![Twitter](https://user-images.githubusercontent.com/80191040/182520103-7870eadc-f4f7-4ffe-820d-6ed7555ef779.png)](https://twitter.com/adriwco)
@@ -14,7 +15,7 @@
 [![Instagram](https://user-images.githubusercontent.com/80191040/182522561-5d3b43c1-e4ad-4e9d-aa1c-b919a010561c.png)](https://www.instagram.com/adriwco) 
 [![Telegram](https://user-images.githubusercontent.com/80191040/182523404-5781e74a-c82f-49bc-983a-f6d752be6cbb.png)](https://t.me/adriwco) 
 ***
-#### Tecnologias que eu uso no meu dia ou noite 😅 (My Skills)
+#### :computer: Tecnologias que eu uso no meu dia ou noite 😅 (My Skills)
 
 [![HTML5](https://skills.thijs.gg/icons?i=html)](https://pt.wikipedia.org/wiki/HTML5)
 [![CSS3](https://skills.thijs.gg/icons?i=css)](https://pt.wikipedia.org/wiki/CSS3)
@@ -26,7 +27,7 @@
 [![Canva](https://user-images.githubusercontent.com/80191040/182524896-846f0265-4b97-4dab-9291-45d703a3e109.png)](https://pt.wikipedia.org/wiki/Canva)
 [![GitHub](https://skills.thijs.gg/icons?i=github)](https://pt.wikipedia.org/wiki/GitHub)
 ***
-#### Project List
+#### :scroll: Project List
 - [x] <a href="https://github.com/adriwco/projeto-portfolio">projeto-portfólio</a> 
 - [x] <a href="https://github.com/adriwco/formulario-simples">formulário-simples</a>
 - [x] <a href="https://github.com/adriwco/calculadora-aritmetica">calculadora-aritmetica</a>
