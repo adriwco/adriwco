@@ -6,7 +6,7 @@
 ***
 #### :earth_africa: Redes Sociais :earth_americas:
 [![Gmail](https://user-images.githubusercontent.com/80191040/182520105-cb01f78f-d006-4d97-9e25-8847e8084645.png)](mailto:adriwco@gmail.com)
-[![LinkedIn](https://user-images.githubusercontent.com/80191040/182520104-4d6a24bd-24f2-446c-add7-b5f695cfcf2d.png)](https://www.linkedin.com/in/adriweverton)
+[![LinkedIn](https://user-images.githubusercontent.com/80191040/182520104-4d6a24bd-24f2-446c-add7-b5f695cfcf2d.png)](https://www.linkedin.com/in/adriwco)
 [![Twitter](https://user-images.githubusercontent.com/80191040/182520103-7870eadc-f4f7-4ffe-820d-6ed7555ef779.png)](https://twitter.com/adriwco)
 [![Twitch](https://user-images.githubusercontent.com/80191040/182520098-d4490f0c-5be0-4791-8031-a49744bbf9aa.png)](https://www.twitch.tv/oito)
 [![WhatsApp](https://user-images.githubusercontent.com/80191040/182520099-58ddca7a-e7ff-4aab-abe3-084f6e210e11.png)](https://contate.me/adriwco)
