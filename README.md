@@ -8,11 +8,8 @@
 [![Gmail](https://user-images.githubusercontent.com/80191040/182520105-cb01f78f-d006-4d97-9e25-8847e8084645.png)](mailto:adriwco@gmail.com)
 [![LinkedIn](https://user-images.githubusercontent.com/80191040/182520104-4d6a24bd-24f2-446c-add7-b5f695cfcf2d.png)](https://www.linkedin.com/in/adriwco)
 [![Twitter](https://user-images.githubusercontent.com/80191040/182520103-7870eadc-f4f7-4ffe-820d-6ed7555ef779.png)](https://twitter.com/adriwco)
-[![Twitch](https://user-images.githubusercontent.com/80191040/182520098-d4490f0c-5be0-4791-8031-a49744bbf9aa.png)](https://www.twitch.tv/oito)
-[![WhatsApp](https://user-images.githubusercontent.com/80191040/182520099-58ddca7a-e7ff-4aab-abe3-084f6e210e11.png)](https://contate.me/adriwco)
 [![Facebook](https://user-images.githubusercontent.com/80191040/182521363-eeee69e0-f145-4120-a02e-ac831cecb556.png)](https://www.facebook.com/adriwco) 
 [![Outlook](https://user-images.githubusercontent.com/80191040/182522131-5dace55d-80dc-4a25-be17-f7dd36bff40e.png)](mailto:adrianoevert@outlook.com) 
-[![Instagram](https://user-images.githubusercontent.com/80191040/182522561-5d3b43c1-e4ad-4e9d-aa1c-b919a010561c.png)](https://www.instagram.com/adriwco) 
 [![Telegram](https://user-images.githubusercontent.com/80191040/182523404-5781e74a-c82f-49bc-983a-f6d752be6cbb.png)](https://t.me/adriwco) 
 ***
 #### :computer: Tecnologias que eu uso no meu dia ou noite 😅 (My Skills)
