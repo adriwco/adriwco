@@ -21,7 +21,6 @@
 [![Figma](https://skills.thijs.gg/icons?i=figma)](https://pt.wikipedia.org/wiki/Figma)
 [![VSCode](https://skills.thijs.gg/icons?i=vscode)](https://pt.wikipedia.org/wiki/Visual_Studio_Code)
 [![Discord](https://skills.thijs.gg/icons?i=discord)](https://pt.wikipedia.org/wiki/Discord)
-[![Canva](https://user-images.githubusercontent.com/80191040/182524896-846f0265-4b97-4dab-9291-45d703a3e109.png)](https://pt.wikipedia.org/wiki/Canva)
 [![GitHub](https://skills.thijs.gg/icons?i=github)](https://pt.wikipedia.org/wiki/GitHub)
 ***
 #### :scroll: Project List
