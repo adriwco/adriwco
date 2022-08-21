@@ -11,6 +11,7 @@
 [![Facebook](https://user-images.githubusercontent.com/80191040/182521363-eeee69e0-f145-4120-a02e-ac831cecb556.png)](https://www.facebook.com/adriwco) 
 [![Outlook](https://user-images.githubusercontent.com/80191040/182522131-5dace55d-80dc-4a25-be17-f7dd36bff40e.png)](mailto:adrianoevert@outlook.com) 
 [![Telegram](https://user-images.githubusercontent.com/80191040/182523404-5781e74a-c82f-49bc-983a-f6d752be6cbb.png)](https://t.me/adriwco) 
+[![Skype](https://user-images.githubusercontent.com/80191040/185790557-ede88ed8-098f-4dfa-8f39-a546a1710b5e.svg)](https://join.skype.com/invite/mHdPcJJDm6hE) 
 [![WhatsApp](https://user-images.githubusercontent.com/80191040/185155424-a5d28c8e-0c0a-4168-8931-fc597f64fe8a.svg)](https://wa.me/351962655782) 
 
 ***
