@@ -5,12 +5,12 @@
 - 🌱 Estudando HTML5, CSS3 e ES6+.
 ***
 #### :earth_africa: Redes Sociais :earth_americas:
-[![Gmail](https://user-images.githubusercontent.com/80191040/182520105-cb01f78f-d006-4d97-9e25-8847e8084645.png)](mailto:adriwco@gmail.com)
-[![LinkedIn](https://user-images.githubusercontent.com/80191040/182520104-4d6a24bd-24f2-446c-add7-b5f695cfcf2d.png)](https://www.linkedin.com/in/adriwco)
-[![Twitter](https://user-images.githubusercontent.com/80191040/182520103-7870eadc-f4f7-4ffe-820d-6ed7555ef779.png)](https://twitter.com/adriwco)
-[![Facebook](https://user-images.githubusercontent.com/80191040/182521363-eeee69e0-f145-4120-a02e-ac831cecb556.png)](https://www.facebook.com/adriwco) 
-[![Outlook](https://user-images.githubusercontent.com/80191040/182522131-5dace55d-80dc-4a25-be17-f7dd36bff40e.png)](mailto:adrianoevert@outlook.com) 
-[![Telegram](https://user-images.githubusercontent.com/80191040/182523404-5781e74a-c82f-49bc-983a-f6d752be6cbb.png)](https://t.me/adriwco) 
+[![Gmail](https://user-images.githubusercontent.com/80191040/185790970-9d153c61-c3a9-4c08-b9b2-cf82e7d38b84.svg)](mailto:adriwco@gmail.com)
+[![LinkedIn](https://user-images.githubusercontent.com/80191040/185790979-66a36459-a9b6-4ed1-b9eb-94f219f290f1.svg)](https://www.linkedin.com/in/adriwco)
+[![Twitter](https://user-images.githubusercontent.com/80191040/185790987-45ad2227-6322-4cd8-b58c-20c26048d4d1.svg)](https://twitter.com/adriwco)
+[![Facebook](https://user-images.githubusercontent.com/80191040/185791012-9037acf0-7812-4574-9862-fd9544489f6b.svg)](https://www.facebook.com/adriwco) 
+[![Outlook](https://user-images.githubusercontent.com/80191040/185791020-23830d27-eb9f-4373-acb7-40705e3fc3e7.svg)](mailto:adrianoevert@outlook.com) 
+[![Telegram](https://user-images.githubusercontent.com/80191040/185791041-c0a284f7-73d6-4b18-bfc9-da2eed81f0da.svg)](https://t.me/adriwco) 
 [![Skype](https://user-images.githubusercontent.com/80191040/185790557-ede88ed8-098f-4dfa-8f39-a546a1710b5e.svg)](https://join.skype.com/invite/mHdPcJJDm6hE) 
 [![WhatsApp](https://user-images.githubusercontent.com/80191040/185155424-a5d28c8e-0c0a-4168-8931-fc597f64fe8a.svg)](https://wa.me/351962655782) 
 
