@@ -5,7 +5,7 @@
 - 🌱 Estudando HTML5, CSS3 e ES6+.
 ***
 #### :earth_africa: Redes Sociais :earth_americas:
-[![Gmail](https://user-images.githubusercontent.com/80191040/185790970-9d153c61-c3a9-4c08-b9b2-cf82e7d38b84.svg)](mailto:adriwco@gmail.com)
+[![Gmail](https://user-images.githubusercontent.com/80191040/185791246-a96e7322-3f00-4edf-9ffa-47d7bd002103.svg)](mailto:adriwco@gmail.com)
 [![LinkedIn](https://user-images.githubusercontent.com/80191040/185790979-66a36459-a9b6-4ed1-b9eb-94f219f290f1.svg)](https://www.linkedin.com/in/adriwco)
 [![Twitter](https://user-images.githubusercontent.com/80191040/185790987-45ad2227-6322-4cd8-b58c-20c26048d4d1.svg)](https://twitter.com/adriwco)
 [![Facebook](https://user-images.githubusercontent.com/80191040/185791012-9037acf0-7812-4574-9862-fd9544489f6b.svg)](https://www.facebook.com/adriwco) 
