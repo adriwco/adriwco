@@ -30,7 +30,7 @@
 - [x] <a href="https://github.com/adriwco/calculadora-aritmetica">calculadora-aritmetica</a>
 - [x] <a href="https://github.com/adriwco/calculadora-imc">calculadora-imc</a> ⭐
 - [x] <a href="https://github.com/adriwco/bikcraft-simples">estrutura-site-simples</a>
-- [x] <a href="https://github.com/adriwco/bikcraft-complexo">estrutura-site-complexo</a>
+- [x] <a href="https://github.com/adriwco/bikcraft-complexo">estrutura-site-complexo</a> ⭐
 - [ ] listar-tarefas (próximo projeto) 🛠️
 - [ ] relogio-js
 - [ ] jogo-da-velha
