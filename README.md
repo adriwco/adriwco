@@ -31,7 +31,7 @@
 - [x] <a href="https://github.com/adriwco/calculadora-imc">calculadora-imc</a> ⭐
 - [x] <a href="https://github.com/adriwco/bikcraft-simples">estrutura-site-simples</a>
 - [x] <a href="https://github.com/adriwco/bikcraft-complexo">estrutura-site-complexo</a> ⭐
-- [ ] listar-tarefas (próximo projeto) 🛠️
+- [ ] to-do-list (próximo projeto) 🛠️
 - [ ] relogio-js
 - [ ] jogo-da-velha
 - [ ] jogo-da-memória
