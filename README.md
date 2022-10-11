@@ -33,10 +33,10 @@
 - [x] <a href="https://github.com/adriwco/bikcraft-complexo">estrutura-site-complexo</a> ⭐
 - [ ] to-do-list (próximo projeto) 🛠️
 - [ ] relogio-js
+- [ ] crud-js
 - [ ] jogo-da-velha
 - [ ] jogo-da-memória
 - [ ] buscador-temperatura-clima
-- [ ] crud-js
 - [ ] rede-social-dogs
 
 [![wallpapers](https://user-images.githubusercontent.com/80191040/185768093-0f3b23d2-c15c-4554-b136-aedad9b2bef0.png)](https://github.com/adriwco)
