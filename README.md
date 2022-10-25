@@ -1,4 +1,4 @@
-## Olá! Eu sou o Adriano Weverton <a href="https://github.com/adriwco"><img src="https://user-images.githubusercontent.com/29931326/125177555-2e78db00-e1b3-11eb-9e49-409c4f649cf5.gif" width="30px"></a> <img src="https://komarev.com/ghpvc/?username=adriwco&color=blueviolet" alt="Profile views"/>
+## Olá! Eu sou o Adriano Weverton <a href="https://github.com/adriwco"><img src="https://user-images.githubusercontent.com/29931326/125177555-2e78db00-e1b3-11eb-9e49-409c4f649cf5.gif" width="30px"></a> <img href="https://github.com/adriwco" src="https://komarev.com/ghpvc/?username=adriwco&color=blueviolet" alt="Profile views"/>
 
 - 📖 Cursando bacharelado em <a href="https://pt.wikipedia.org/wiki/Sistema_de_informa%C3%A7%C3%A3o">Sistemas de Informação</a> (<a href="https://pt.wikipedia.org/wiki/Educa%C3%A7%C3%A3o_a_dist%C3%A2ncia">Educação a Distância</a>).
 - 🔭 Entrando no mundo do <a href="https://en.wikipedia.org/wiki/Front-end_web_development">front-end</a>.
