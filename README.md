@@ -1,4 +1,4 @@
-## Olá! Eu sou o Adriano Weverton <a href="https://github.com/adriwco"><img src="https://user-images.githubusercontent.com/29931326/125177555-2e78db00-e1b3-11eb-9e49-409c4f649cf5.gif" width="30px"></a>
+## Olá! Eu sou o Adriano Weverton <a href="https://github.com/adriwco"><img src="https://user-images.githubusercontent.com/29931326/125177555-2e78db00-e1b3-11eb-9e49-409c4f649cf5.gif" width="30px"></a> <img src="https://komarev.com/ghpvc/?username=adriwco&color=blueviolet" alt="Profile views"/>
 
 - 📖 Cursando bacharelado em <a href="https://pt.wikipedia.org/wiki/Sistema_de_informa%C3%A7%C3%A3o">Sistemas de Informação</a> (<a href="https://pt.wikipedia.org/wiki/Educa%C3%A7%C3%A3o_a_dist%C3%A2ncia">Educação a Distância</a>).
 - 🔭 Entrando no mundo do <a href="https://en.wikipedia.org/wiki/Front-end_web_development">front-end</a>.
@@ -23,7 +23,13 @@
 [![Figma](https://skills.thijs.gg/icons?i=figma)](https://pt.wikipedia.org/wiki/Figma)
 [![VSCode](https://skills.thijs.gg/icons?i=vscode)](https://pt.wikipedia.org/wiki/Visual_Studio_Code)
 [![Discord](https://skills.thijs.gg/icons?i=discord)](https://pt.wikipedia.org/wiki/Discord)
+
+<div align="center">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriwco&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/> <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adriwco&theme=tokyonight"/><img height="150em" src="https://github-readme-stats.vercel.app/api?username=adriwco&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true"/> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=adriwco&theme=tokyonight&hide_border=true"/>
+</div>
+
 ***
+
 #### :scroll: Project List
 - [x] <a href="https://github.com/adriwco/projeto-portfolio">projeto-portfólio</a> 
 - [x] <a href="https://github.com/adriwco/formulario-simples">formulário-simples</a>
