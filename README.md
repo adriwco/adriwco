@@ -25,7 +25,7 @@
 [![Discord](https://skills.thijs.gg/icons?i=discord)](https://pt.wikipedia.org/wiki/Discord)
 
 <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriwco&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/> <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adriwco&theme=tokyonight"/><img height="150em" src="https://github-readme-stats.vercel.app/api?username=adriwco&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true"/> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=adriwco&theme=tokyonight&hide_border=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/> <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adriwco&theme=tokyonight"/><img height="150em" src="https://github-readme-stats.vercel.app/api?username=adriwco&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=adriwco&theme=tokyonight&hide_border=true"/>
 </div>
 
 ***
