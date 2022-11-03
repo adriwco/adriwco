@@ -28,24 +28,29 @@
 
 <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriwco&layout=compact&theme=tokyonight&hide_border=true"/> <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adriwco&theme=tokyonight"/><img height="150em" src="https://github-readme-stats.vercel.app/api?username=adriwco&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=adriwco&theme=tokyonight&hide_border=true"/>
-</div>
+</div></br>
 
 ***
 
-#### :scroll: Project List
-- [x] <a href="https://github.com/adriwco/projeto-portfolio">projeto-portfólio</a> 
-- [x] <a href="https://github.com/adriwco/formulario-simples">formulário-simples</a>
-- [x] <a href="https://github.com/adriwco/calculadora-aritmetica">calculadora-aritmetica</a>
-- [x] <a href="https://github.com/adriwco/calculadora-imc">calculadora-imc</a> ⭐
-- [x] <a href="https://github.com/adriwco/bikcraft-simples">estrutura-site-simples</a>
-- [x] <a href="https://github.com/adriwco/bikcraft-complexo">estrutura-site-complexo</a> ⭐
-- [ ] to-do-list (próximo projeto) 🛠️
-- [ ] relogio-js
-- [ ] crud-js
-- [ ] jogo-da-velha
-- [ ] jogo-da-memória
-- [ ] buscador-temperatura-clima
-- [ ] rede-social-dogs
+<details> 
+<summary> <h4> 💎 Clique aqui para visualizar alguns dos meus projetos!⭐</h4></summary>
+
+<p align="left">
+  <a href="https://github.com/adriwco/calculadora-imc">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adriwco&repo=calculadora-imc&theme=react&bg_color=0D1117" alt="calculadora-imc"></a>
+  <a href="https://github.com/adriwco/calculadora-aritmetica">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adriwco&repo=calculadora-aritmetica&theme=react&bg_color=0D1117" alt="calculadora-aritmetica"></a>
+  <a href="https://github.com/adriwco/formulario-simples">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adriwco&repo=formulario-simples&theme=react&bg_color=0D1117" alt="formulario-simples"></a>
+  <a href="https://github.com/adriwco/bikcraft-complexo">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adriwco&repo=bikcraft-complexo&theme=react&bg_color=0D1117" alt="bikcraft-complexo"></a> 
+</p>
+
+#### :scroll: Lista de projetos futuros: to-do-list, relogio-js, crud-js, jogo-da-velha, jogo-da-memória, buscador-temperatura-clima, rede-social-dogs, etc. 🛠️ 
+<br />  
+<p align="left"><a href="https://github.com/The-Young-Programmer?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-More%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a></p> 
+</details>
+
 
 [![wallpapers](https://user-images.githubusercontent.com/80191040/185768093-0f3b23d2-c15c-4554-b136-aedad9b2bef0.png)](https://github.com/adriwco)
 
