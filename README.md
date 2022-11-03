@@ -35,7 +35,7 @@
 <details> 
 <summary> <h4> 💎 Clique aqui para visualizar alguns dos meus projetos!⭐</h4></summary>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/adriwco/calculadora-imc">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adriwco&repo=calculadora-imc&theme=react&bg_color=0D1117" alt="calculadora-imc"></a>
   <a href="https://github.com/adriwco/calculadora-aritmetica">
