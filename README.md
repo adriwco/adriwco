@@ -2,10 +2,14 @@
 
 ## Olá! Eu sou o <a href="https://www.linkedin.com/in/adriwco">@adriwco</a> <a href="https://github.com/adriwco"><img src="https://user-images.githubusercontent.com/29931326/125177555-2e78db00-e1b3-11eb-9e49-409c4f649cf5.gif" width="30px"></a> <img href="https://github.com/adriwco" src="https://komarev.com/ghpvc/?username=adriwco&color=blueviolet" alt="Profile views"/>
 
-- 📖 Cursando bacharelado em <a href="https://pt.wikipedia.org/wiki/Sistema_de_informa%C3%A7%C3%A3o">Sistemas de Informação</a> (<a href="https://pt.wikipedia.org/wiki/Educa%C3%A7%C3%A3o_a_dist%C3%A2ncia">Educação a Distância</a>).
+- 📖 Cursando bacharelado em <a href="https://pt.wikipedia.org/wiki/Sistema_de_informa%C3%A7%C3%A3o">Sistemas de Informação</a> (<a href="https://pt.wikipedia.org/wiki/Educa%C3%A7%C3%A3o_a_dist%C3%A2ncia">EaD</a>).
 - 🔭 Entrando no mundo do <a href="https://en.wikipedia.org/wiki/Front-end_web_development">front-end</a>.
 - 🌱 Estudando HTML5, CSS3 e ES6+.
+
+![Metrics](https://metrics.lecoq.io/adriwco?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=America%2FSao_Paulo&config.octicon=true)
+
 ***
+
 #### :earth_africa: Redes Sociais :earth_americas:
 [![Gmail](https://user-images.githubusercontent.com/80191040/185791246-a96e7322-3f00-4edf-9ffa-47d7bd002103.svg)](mailto:adriwco@gmail.com)
 [![LinkedIn](https://user-images.githubusercontent.com/80191040/185790979-66a36459-a9b6-4ed1-b9eb-94f219f290f1.svg)](https://www.linkedin.com/in/adriwco)
