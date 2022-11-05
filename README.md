@@ -29,12 +29,11 @@
 [![Discord](https://skills.thijs.gg/icons?i=discord)](https://pt.wikipedia.org/wiki/Discord)
 
 <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriwco&layout=compact&theme=tokyonight&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api?username=adriwco&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=adriwco&theme=tokyonight&hide_border=true"/>
-</div></br>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriwco&layout=compact&theme=tokyonight&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api?username=adriwco&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=adriwco&theme=tokyonight&hide_border=true"/></div></br>
 
 ***
 
-[![Metrics](https://metrics.lecoq.io/adriwco?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=America%2FSao_Paulo&config.octicon=true)](https://github.com/adriwco)
+<p align="center"><a href="https://github.com/adriwco"><img src="https://metrics.lecoq.io/adriwco?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=America%2FSao_Paulo&config.octicon=true" alt="calculadora-imc"></a></p>
 
 <details> 
 <summary> <h4> 💎 Clique aqui para visualizar alguns dos meus projetos!⭐</h4></summary>
