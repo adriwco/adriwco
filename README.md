@@ -49,7 +49,8 @@
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adriwco&repo=bikcraft-complexo&theme=react&bg_color=0D1117" alt="bikcraft-complexo"></a> 
 </p>
 
-#### :scroll: Lista de projetos futuros: to-do-list, relogio-js, crud-js, jogo-da-velha, jogo-da-memória, buscador-temperatura-clima, rede-social-dogs, etc. 🛠️ 
+#### :scroll: Lista de projetos futuros: ⤵
+  <p align="center"> :scroll: to-do-list🔹relogio-js🔹crud-js🔹jogo-da-velha🔹jogo-da-memória🔹buscador-temperatura-clima🔹rede-social-dogs🔹etc. 🛠️ </p>
 <br />  
 <p align="left"><a href="https://github.com/adriwco?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-More%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a></p> 
 </details>
