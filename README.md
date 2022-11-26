@@ -6,7 +6,7 @@
 - 🔭 Entrando no mundo do <a href="https://en.wikipedia.org/wiki/Front-end_web_development">front-end</a>.
 - 🌱 Estudando HTML5, CSS3 e ES6+.
 
-<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
+****
 
 #### :earth_africa: Redes Sociais :earth_americas:
 [![Gmail](https://user-images.githubusercontent.com/80191040/185791246-a96e7322-3f00-4edf-9ffa-47d7bd002103.svg)](mailto:adriwco@gmail.com)
@@ -17,7 +17,7 @@
 [![Skype](https://user-images.githubusercontent.com/80191040/185790557-ede88ed8-098f-4dfa-8f39-a546a1710b5e.svg)](https://join.skype.com/invite/mHdPcJJDm6hE) 
 [![WhatsApp](https://user-images.githubusercontent.com/80191040/185155424-a5d28c8e-0c0a-4168-8931-fc597f64fe8a.svg)](https://wa.me/351962655782) 
 
-<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
+****
 
 #### <img width="30" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"  align="center"/> Tecnologias que eu uso no meu dia ou noite 😅 <img width="30" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"  align="center"/>
 
@@ -28,6 +28,8 @@
 [![Figma](https://skills.thijs.gg/icons?i=figma)](https://pt.wikipedia.org/wiki/Figma)
 [![VSCode](https://skills.thijs.gg/icons?i=vscode)](https://pt.wikipedia.org/wiki/Visual_Studio_Code)
 [![Discord](https://skills.thijs.gg/icons?i=discord)](https://pt.wikipedia.org/wiki/Discord)
+
+****
 
 <details> 
 <summary> <h4>⭐ Clique aqui para visualizar alguns dos meus projetos! ⭐</h4></summary>
