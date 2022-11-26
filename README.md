@@ -1,4 +1,4 @@
-### Olá! Eu sou o <a href="https://www.linkedin.com/in/adriwco">@adriwco</a> <a href="https://github.com/adriwco"><img src="https://user-images.githubusercontent.com/29931326/125177555-2e78db00-e1b3-11eb-9e49-409c4f649cf5.gif" width="30px"></a> <img href="https://github.com/adriwco" src="https://komarev.com/ghpvc/?username=adriwco&color=blueviolet" alt="Profile views"/>
+### Olá! Eu sou o <a href="https://www.linkedin.com/in/adriwco">@adriwco</a> <a href="https://github.com/adriwco"><img src="https://user-images.githubusercontent.com/29931326/125177555-2e78db00-e1b3-11eb-9e49-409c4f649cf5.gif" width="30px"></a> <a href="https://github.com/adriwco"><img href="https://github.com/adriwco" src="https://komarev.com/ghpvc/?username=adriwco&color=blueviolet" alt="Profile views"/></a>
 
 <a href="https://github.com/adriwco"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></a>
 
