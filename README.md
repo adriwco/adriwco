@@ -1,5 +1,3 @@
-
-
 ### Olá! Eu sou o <a href="https://www.linkedin.com/in/adriwco">@adriwco</a> <a href="https://github.com/adriwco"><img src="https://user-images.githubusercontent.com/29931326/125177555-2e78db00-e1b3-11eb-9e49-409c4f649cf5.gif" width="30px"></a> <img href="https://github.com/adriwco" src="https://komarev.com/ghpvc/?username=adriwco&color=blueviolet" alt="Profile views"/>
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
@@ -21,7 +19,7 @@
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 
-#### :computer: Tecnologias que eu uso no meu dia ou noite 😅 (My Skills)
+#### <img width="30" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"  align="center"/> Tecnologias que eu uso no meu dia ou noite 😅 (My Skills)
 
 [![HTML5](https://skills.thijs.gg/icons?i=html)](https://pt.wikipedia.org/wiki/HTML5)
 [![CSS3](https://skills.thijs.gg/icons?i=css)](https://pt.wikipedia.org/wiki/CSS3)
@@ -30,8 +28,6 @@
 [![Figma](https://skills.thijs.gg/icons?i=figma)](https://pt.wikipedia.org/wiki/Figma)
 [![VSCode](https://skills.thijs.gg/icons?i=vscode)](https://pt.wikipedia.org/wiki/Visual_Studio_Code)
 [![Discord](https://skills.thijs.gg/icons?i=discord)](https://pt.wikipedia.org/wiki/Discord)
-
-<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 
 <details> 
 <summary> <h4>⭐ Clique aqui para visualizar alguns dos meus projetos! ⭐</h4></summary>
