@@ -43,6 +43,8 @@
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adriwco&repo=formulario-simples&theme=react&bg_color=0D1117" alt="formulario-simples"></a>
   <a href="https://github.com/adriwco/bikcraft-complexo">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adriwco&repo=bikcraft-complexo&theme=react&bg_color=0D1117" alt="bikcraft-complexo"></a> 
+  <a href="https://github.com/adriwco/to-do-list">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adriwco&repo=to-do-list&theme=react&bg_color=0D1117" alt="bikcraft-complexo"></a> 
 </p>
 
 #### :scroll: Lista de projetos futuros: ⤵
