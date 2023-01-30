@@ -58,7 +58,4 @@
 <p align="center"><a href="https://github.com/adriwco?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-More%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a></p> 
 </details>
 
-
-[![wallpapers](https://user-images.githubusercontent.com/80191040/185768093-0f3b23d2-c15c-4554-b136-aedad9b2bef0.png)](https://github.com/adriwco)
-
 <a href="https://github.com/adriwco"><img width=100% title="Final" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&text=🧩&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=75"/></a>
