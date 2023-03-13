@@ -21,6 +21,7 @@
 [![Discord](https://skills.thijs.gg/icons?i=discord)](https://pt.wikipedia.org/wiki/Discord)
 [![Stack Overflow](https://skills.thijs.gg/icons?i=stackoverflow)](https://pt.wikipedia.org/wiki/Stack_Overflow)
 [![GitLab](https://skills.thijs.gg/icons?i=gitlab)](https://pt.wikipedia.org/wiki/GitLab)
+[![Markdown](https://skills.thijs.gg/icons?i=md)](https://pt.wikipedia.org/wiki/Markdown)
 
 ****
 
