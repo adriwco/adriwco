@@ -20,6 +20,7 @@
 [![VSCode](https://skills.thijs.gg/icons?i=vscode)](https://pt.wikipedia.org/wiki/Visual_Studio_Code)
 [![Discord](https://skills.thijs.gg/icons?i=discord)](https://pt.wikipedia.org/wiki/Discord)
 [![Stack Overflow](https://skills.thijs.gg/icons?i=stackoverflow)](https://pt.wikipedia.org/wiki/Stack_Overflow)
+[![GitLab](https://skills.thijs.gg/icons?i=gitlab)](https://pt.wikipedia.org/wiki/GitLab)
 
 ****
 
