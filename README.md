@@ -49,7 +49,7 @@
 
 <a href="https://github.com/adriwco"><img width=100% title="Final" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&text=🧩&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=75"/></a>
 
-#### :earth_africa: Redes Sociais :earth_americas:
+#### <div align="center">:earth_africa: Redes Sociais :earth_americas:<div>
 
 <p align="center">
 <a alt="Gmail" href="mailto:adriwco@gmail.com"><img src="https://user-images.githubusercontent.com/80191040/185791246-a96e7322-3f00-4edf-9ffa-47d7bd002103.svg" width="48px"></a>
