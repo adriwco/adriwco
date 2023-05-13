@@ -26,7 +26,7 @@
 ****
 
 <details> 
-<summary> <h4>⭐ Clique aqui para visualizar alguns dos meus projetos! ⭐</h4></summary>
+<summary> <h4>⭐Clique aqui para visualizar alguns dos meus projetos!⭐</h4></summary>
 
 <p align="center">
   <a href="https://github.com/adriwco/projeto-portfolio">
