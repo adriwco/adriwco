@@ -32,6 +32,5 @@
 <a alt="LinkedIn" href="https://www.linkedin.com/in/adriwco"><img src="https://user-images.githubusercontent.com/80191040/185790979-66a36459-a9b6-4ed1-b9eb-94f219f290f1.svg" width="48px"></a>
 <a alt="Skype" href="https://join.skype.com/invite/mHdPcJJDm6hE"><img src="https://user-images.githubusercontent.com/80191040/185790557-ede88ed8-098f-4dfa-8f39-a546a1710b5e.svg" width="48px"></a>
 <a alt="Facebook" href="https://www.facebook.com/adriwco"><img src="https://user-images.githubusercontent.com/80191040/185791012-9037acf0-7812-4574-9862-fd9544489f6b.svg" width="48px"></a>
-<a alt="Telegram" href="https://t.me/adriwco"><img src="https://user-images.githubusercontent.com/80191040/185791041-c0a284f7-73d6-4b18-bfc9-da2eed81f0da.svg" width="48px"></a>
 <a alt="WhatsApp" href="https://wa.me/351962655782"><img src="https://user-images.githubusercontent.com/80191040/185155424-a5d28c8e-0c0a-4168-8931-fc597f64fe8a.svg" width="48px"></a>
 </p>
