@@ -8,7 +8,7 @@
 
 ****
 
-#### <a href="https://github.com/adriwco"><img width="30" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"  align="center"/></a> Ferramentas que utilizo no meu dia ou noite 😅 <a href="https://github.com/adriwco"><img width="30" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"  align="center"/></a>
+#### Ferramentas que utilizo no meu dia ou noite 😅
 
 [![HTML5](https://skills.thijs.gg/icons?i=html)](https://pt.wikipedia.org/wiki/HTML5)
 [![CSS3](https://skills.thijs.gg/icons?i=css)](https://pt.wikipedia.org/wiki/CSS3)
@@ -22,32 +22,6 @@
 [![Stack Overflow](https://skills.thijs.gg/icons?i=stackoverflow)](https://pt.wikipedia.org/wiki/Stack_Overflow)
 [![GitLab](https://skills.thijs.gg/icons?i=gitlab)](https://pt.wikipedia.org/wiki/GitLab)
 [![Markdown](https://skills.thijs.gg/icons?i=md)](https://pt.wikipedia.org/wiki/Markdown)
-
-****
-
-<details> 
-<summary> <h4>⭐Clique aqui para visualizar alguns dos meus projetos!⭐</h4></summary>
-
-<p align="center">
-  <a href="https://github.com/adriwco/projeto-portfolio">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adriwco&repo=projeto-portfolio&theme=react&bg_color=0D1117" alt="calculadora-imc"></a>
-  <a href="https://github.com/adriwco/calculadora-imc">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adriwco&repo=calculadora-imc&theme=react&bg_color=0D1117" alt="calculadora-imc"></a>
-  <a href="https://github.com/adriwco/calculadora-aritmetica">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adriwco&repo=calculadora-aritmetica&theme=react&bg_color=0D1117" alt="calculadora-aritmetica"></a>
-  <a href="https://github.com/adriwco/formulario-simples">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adriwco&repo=formulario-simples&theme=react&bg_color=0D1117" alt="formulario-simples"></a>
-  <a href="https://github.com/adriwco/bikcraft-complexo">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adriwco&repo=bikcraft-complexo&theme=react&bg_color=0D1117" alt="bikcraft-complexo"></a> 
-  <a href="https://github.com/adriwco/to-do-list">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adriwco&repo=to-do-list&theme=react&bg_color=0D1117" alt="bikcraft-complexo"></a> 
-</p>
-
-#### :scroll: Lista de projetos futuros: ⤵
-  <p align="center"> :scroll: to-do-list🔹relogio-js🔹crud-js🔹jogo-da-velha🔹jogo-da-memória🔹buscador-temperatura-clima🔹rede-social-dogs🔹etc. 🛠️ </p>
-<br />  
-<p align="center"><a href="https://github.com/adriwco?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-More%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a></p> 
-</details>
 
 <a href="https://github.com/adriwco"><img width=100% title="Final" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&text=🧩&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=75"/></a>
 
