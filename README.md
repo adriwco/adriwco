@@ -13,6 +13,7 @@
 [![HTML5](https://skills.thijs.gg/icons?i=html)](https://pt.wikipedia.org/wiki/HTML5)
 [![CSS3](https://skills.thijs.gg/icons?i=css)](https://pt.wikipedia.org/wiki/CSS3)
 [![JavaScript](https://skills.thijs.gg/icons?i=js)](https://pt.wikipedia.org/wiki/JavaScript)
+[![React](https://skills.thijs.gg/icons?i=react)](https://pt.wikipedia.org/wiki/React_(JavaScript))
 [![jQuery](https://skills.thijs.gg/icons?i=jquery)](https://pt.wikipedia.org/wiki/JQuery)
 [![Bootstrap](https://skills.thijs.gg/icons?i=bootstrap)](https://pt.wikipedia.org/wiki/Bootstrap_(framework_front-end))
 [![Git](https://skills.thijs.gg/icons?i=git)](https://pt.wikipedia.org/wiki/Git)
