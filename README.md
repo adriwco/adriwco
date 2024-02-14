@@ -10,6 +10,8 @@
 
 #### Ferramentas que utilizo no meu dia ou noite 😅
 
+<div align="center">
+  
 [![HTML5](https://skills.thijs.gg/icons?i=html)](https://pt.wikipedia.org/wiki/HTML5)
 [![CSS3](https://skills.thijs.gg/icons?i=css)](https://pt.wikipedia.org/wiki/CSS3)
 [![JavaScript](https://skills.thijs.gg/icons?i=js)](https://pt.wikipedia.org/wiki/JavaScript)
@@ -25,9 +27,11 @@
 [![GitLab](https://skills.thijs.gg/icons?i=gitlab)](https://pt.wikipedia.org/wiki/GitLab)
 [![Markdown](https://skills.thijs.gg/icons?i=md)](https://pt.wikipedia.org/wiki/Markdown)
 
+</div>
+  
 <a href="https://github.com/adriwco"><img width=100% title="Final" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&text=🧩&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=75"/></a>
 
-#### <div align="center">:earth_africa: Redes Sociais :earth_americas:<div>
+#### <div align="center">:earth_africa: Redes Sociais :earth_americas:</div>
 
 <p align="center">
 <a alt="Gmail" href="mailto:adriwco@gmail.com"><img src="https://user-images.githubusercontent.com/80191040/185791246-a96e7322-3f00-4edf-9ffa-47d7bd002103.svg" width="48px"></a>
