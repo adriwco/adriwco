@@ -19,13 +19,13 @@
 [![TypeScript](https://skills.thijs.gg/icons?i=ts)](https://pt.wikipedia.org/wiki/TypeScript)
 [![jQuery](https://skills.thijs.gg/icons?i=jquery)](https://pt.wikipedia.org/wiki/JQuery)
 [![Bootstrap](https://skills.thijs.gg/icons?i=bootstrap)](https://pt.wikipedia.org/wiki/Bootstrap_(framework_front-end))
+[![TailwindCSS](https://skills.thijs.gg/icons?i=tailwindcss)](https://en.wikipedia.org/wiki/Tailwind_CSS)
 [![Git](https://skills.thijs.gg/icons?i=git)](https://pt.wikipedia.org/wiki/Git)
 [![Figma](https://skills.thijs.gg/icons?i=figma)](https://pt.wikipedia.org/wiki/Figma)
 [![VSCode](https://skills.thijs.gg/icons?i=vscode)](https://pt.wikipedia.org/wiki/Visual_Studio_Code)
 [![Discord](https://skills.thijs.gg/icons?i=discord)](https://pt.wikipedia.org/wiki/Discord)
 [![Stack Overflow](https://skills.thijs.gg/icons?i=stackoverflow)](https://pt.wikipedia.org/wiki/Stack_Overflow)
-[![GitLab](https://skills.thijs.gg/icons?i=gitlab)](https://pt.wikipedia.org/wiki/GitLab)
-[![Markdown](https://skills.thijs.gg/icons?i=md)](https://pt.wikipedia.org/wiki/Markdown)
+[![Vercel](https://skills.thijs.gg/icons?i=vercel)](https://en.wikipedia.org/wiki/Vercel)
 
 </div>
   
