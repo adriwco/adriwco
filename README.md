@@ -4,7 +4,7 @@
 
 - 📖 Cursando bacharelado em <a href="https://pt.wikipedia.org/wiki/Sistema_de_informa%C3%A7%C3%A3o">Sistemas de Informação</a>.
 - 🔭 Mergulhando no mundo do <a href="https://en.wikipedia.org/wiki/Front-end_web_development">front-end</a>.
-- 🌱 Estudando React e TailwindCSS.
+- 🌱 Estudando React/Next e TailwindCSS.
 
 ****
 
