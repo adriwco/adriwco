@@ -20,6 +20,7 @@
 [![jQuery](https://skills.thijs.gg/icons?i=jquery)](https://pt.wikipedia.org/wiki/JQuery)
 [![Bootstrap](https://skills.thijs.gg/icons?i=bootstrap)](https://pt.wikipedia.org/wiki/Bootstrap_(framework_front-end))
 [![TailwindCSS](https://skills.thijs.gg/icons?i=tailwindcss)](https://en.wikipedia.org/wiki/Tailwind_CSS)
+[![NextJS](https://skills.thijs.gg/icons?i=next)](https://pt.wikipedia.org/wiki/Next.js)
 [![Git](https://skills.thijs.gg/icons?i=git)](https://pt.wikipedia.org/wiki/Git)
 [![Figma](https://skills.thijs.gg/icons?i=figma)](https://pt.wikipedia.org/wiki/Figma)
 [![VSCode](https://skills.thijs.gg/icons?i=vscode)](https://pt.wikipedia.org/wiki/Visual_Studio_Code)
