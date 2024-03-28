@@ -20,6 +20,8 @@
 [![jQuery](https://skills.thijs.gg/icons?i=jquery)](https://pt.wikipedia.org/wiki/JQuery)
 [![Bootstrap](https://skills.thijs.gg/icons?i=bootstrap)](https://pt.wikipedia.org/wiki/Bootstrap_(framework_front-end))
 [![TailwindCSS](https://skills.thijs.gg/icons?i=tailwindcss)](https://en.wikipedia.org/wiki/Tailwind_CSS)
+[![svelte](https://skills.thijs.gg/icons?i=svelte)](https://en.wikipedia.org/wiki/Svelte)
+[![vite](https://skills.thijs.gg/icons?i=vite)](https://en.wikipedia.org/wiki/Vite_(software))
 [![NextJS](https://skills.thijs.gg/icons?i=next)](https://pt.wikipedia.org/wiki/Next.js)
 [![Git](https://skills.thijs.gg/icons?i=git)](https://pt.wikipedia.org/wiki/Git)
 [![Figma](https://skills.thijs.gg/icons?i=figma)](https://pt.wikipedia.org/wiki/Figma)
@@ -27,6 +29,8 @@
 [![Discord](https://skills.thijs.gg/icons?i=discord)](https://pt.wikipedia.org/wiki/Discord)
 [![Stack Overflow](https://skills.thijs.gg/icons?i=stackoverflow)](https://pt.wikipedia.org/wiki/Stack_Overflow)
 [![Vercel](https://skills.thijs.gg/icons?i=vercel)](https://en.wikipedia.org/wiki/Vercel)
+[![notion](https://skills.thijs.gg/icons?i=notion)](https://pt.wikipedia.org/wiki/Notion_(app))
+[![windows](https://skills.thijs.gg/icons?i=windows)](https://pt.wikipedia.org/wiki/Microsoft_Windows)
 
 </div>
   
@@ -34,7 +38,7 @@
 
 #### <div align="center">:earth_africa: Redes Sociais :earth_americas:</div>
 
-<p align="center">
+<p align="center"> 
 <a alt="Gmail" href="mailto:adriwco@gmail.com"><img src="https://user-images.githubusercontent.com/80191040/185791246-a96e7322-3f00-4edf-9ffa-47d7bd002103.svg" width="48px"></a>
 <a alt="LinkedIn" href="https://www.linkedin.com/in/adriwco"><img src="https://user-images.githubusercontent.com/80191040/185790979-66a36459-a9b6-4ed1-b9eb-94f219f290f1.svg" width="48px"></a>
 <a alt="Skype" href="https://join.skype.com/invite/mHdPcJJDm6hE"><img src="https://user-images.githubusercontent.com/80191040/185790557-ede88ed8-098f-4dfa-8f39-a546a1710b5e.svg" width="48px"></a>
