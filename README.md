@@ -18,14 +18,14 @@
 [![React](https://skills.thijs.gg/icons?i=react)](https://pt.wikipedia.org/wiki/React_(JavaScript))
 [![TypeScript](https://skills.thijs.gg/icons?i=ts)](https://pt.wikipedia.org/wiki/TypeScript)
 [![jQuery](https://skills.thijs.gg/icons?i=jquery)](https://pt.wikipedia.org/wiki/JQuery)
-[![Bootstrap](https://skills.thijs.gg/icons?i=bootstrap)](https://pt.wikipedia.org/wiki/Bootstrap_(framework_front-end))
+[![Bootstrap](https://skills.thijs.gg/icons?i=bootstrap)](https://pt.wikipedia.org/wiki/Bootstrap_(framework_front-end))\
 [![TailwindCSS](https://skills.thijs.gg/icons?i=tailwindcss)](https://en.wikipedia.org/wiki/Tailwind_CSS)
 [![svelte](https://skills.thijs.gg/icons?i=svelte)](https://en.wikipedia.org/wiki/Svelte)
 [![vite](https://skills.thijs.gg/icons?i=vite)](https://en.wikipedia.org/wiki/Vite_(software))
 [![NextJS](https://skills.thijs.gg/icons?i=next)](https://pt.wikipedia.org/wiki/Next.js)
 [![Git](https://skills.thijs.gg/icons?i=git)](https://pt.wikipedia.org/wiki/Git)
 [![Figma](https://skills.thijs.gg/icons?i=figma)](https://pt.wikipedia.org/wiki/Figma)
-[![VSCode](https://skills.thijs.gg/icons?i=vscode)](https://pt.wikipedia.org/wiki/Visual_Studio_Code)
+[![VSCode](https://skills.thijs.gg/icons?i=vscode)](https://pt.wikipedia.org/wiki/Visual_Studio_Code)\
 [![Discord](https://skills.thijs.gg/icons?i=discord)](https://pt.wikipedia.org/wiki/Discord)
 [![Stack Overflow](https://skills.thijs.gg/icons?i=stackoverflow)](https://pt.wikipedia.org/wiki/Stack_Overflow)
 [![Vercel](https://skills.thijs.gg/icons?i=vercel)](https://en.wikipedia.org/wiki/Vercel)
