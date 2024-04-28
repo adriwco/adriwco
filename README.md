@@ -12,24 +12,7 @@
 
 <div align="center">
   
-[![HTML5](https://skills.thijs.gg/icons?i=html)](https://pt.wikipedia.org/wiki/HTML5)
-[![CSS3](https://skills.thijs.gg/icons?i=css)](https://pt.wikipedia.org/wiki/CSS3)
-[![JavaScript](https://skills.thijs.gg/icons?i=js)](https://pt.wikipedia.org/wiki/JavaScript)
-[![React](https://skills.thijs.gg/icons?i=react)](https://pt.wikipedia.org/wiki/React_(JavaScript))
-[![TypeScript](https://skills.thijs.gg/icons?i=ts)](https://pt.wikipedia.org/wiki/TypeScript)
-[![jQuery](https://skills.thijs.gg/icons?i=jquery)](https://pt.wikipedia.org/wiki/JQuery)\
-[![Bootstrap](https://skills.thijs.gg/icons?i=bootstrap)](https://pt.wikipedia.org/wiki/Bootstrap_(framework_front-end))
-[![TailwindCSS](https://skills.thijs.gg/icons?i=tailwindcss)](https://en.wikipedia.org/wiki/Tailwind_CSS)
-[![svelte](https://skills.thijs.gg/icons?i=svelte)](https://en.wikipedia.org/wiki/Svelte)
-[![vite](https://skills.thijs.gg/icons?i=vite)](https://en.wikipedia.org/wiki/Vite_(software))
-[![NextJS](https://skills.thijs.gg/icons?i=next)](https://pt.wikipedia.org/wiki/Next.js)
-[![Git](https://skills.thijs.gg/icons?i=git)](https://pt.wikipedia.org/wiki/Git)\
-[![Figma](https://skills.thijs.gg/icons?i=figma)](https://pt.wikipedia.org/wiki/Figma)
-[![VSCode](https://skills.thijs.gg/icons?i=vscode)](https://pt.wikipedia.org/wiki/Visual_Studio_Code)
-[![Discord](https://skills.thijs.gg/icons?i=discord)](https://pt.wikipedia.org/wiki/Discord)
-[![Vercel](https://skills.thijs.gg/icons?i=vercel)](https://en.wikipedia.org/wiki/Vercel)
-[![notion](https://skills.thijs.gg/icons?i=notion)](https://pt.wikipedia.org/wiki/Notion_(app))
-[![windows](https://skills.thijs.gg/icons?i=windows)](https://pt.wikipedia.org/wiki/Microsoft_Windows)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,jquery,bootstrap,tailwindcss,svelte,vite,next,git,figma,vscode,discord,vercel,notion,windows&perline=6)](https://github.com/adriwco)
 
 </div>
   
