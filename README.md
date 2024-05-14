@@ -2,8 +2,8 @@
 
 <a href="https://github.com/adriwco"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></a>
 
-- 📖 Cursando bacharelado em <a href="https://pt.wikipedia.org/wiki/Sistema_de_informa%C3%A7%C3%A3o">Sistemas de Informação</a>.
 - 🔭 Mergulhando no mundo do <a href="https://en.wikipedia.org/wiki/Front-end_web_development">front-end</a>.
+- 📖 Cursando bacharelado em <a href="https://pt.wikipedia.org/wiki/Sistema_de_informa%C3%A7%C3%A3o">Sistemas de Informação</a>.
 - 🌱 Estudando React/Next, TailwindCSS, React Native e TypeScript.
 
 ****
