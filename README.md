@@ -12,7 +12,7 @@
 
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,jquery,bootstrap,tailwindcss,svelte,vite,next,nodejs,docker,git,figma,mysql,androidstudio,styledcomponents,vscode,discord,vercel,notion,md,windows&perline=6)](https://github.com/adriwco)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,jquery,bootstrap,tailwindcss,svelte,vite,next,nodejs,docker,git,figma,mysql,androidstudio,postman,styledcomponents,vscode,discord,notion,md,windows&perline=6)](https://github.com/adriwco)
 
 </div>
   
