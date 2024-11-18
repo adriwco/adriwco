@@ -4,7 +4,7 @@
 
 - 🔭 Mergulhando no mundo do <a href="https://en.wikipedia.org/wiki/Front-end_web_development">front-end</a>.
 - 📖 Cursando bacharelado em <a href="https://pt.wikipedia.org/wiki/Sistema_de_informa%C3%A7%C3%A3o">Sistemas de Informação</a>.
-- 🌱 Estudando React/Next, TailwindCSS, React Native e TypeScript, com ênfase em componentização, gerenciamento de estado e Clean Code.
+- 🌱 Estudando React/Vite, TailwindCSS, React Native e TypeScript.
 
 ****
 
@@ -32,7 +32,6 @@
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
   ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
-  ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
   ![chatgpt](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
   ![postGresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   ![axios](https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white)
@@ -51,7 +50,7 @@
   
 <a href="https://github.com/adriwco"><img width=100% title="Final" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&text=🧩&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=75"/></a>
 
-#### <div align="center">:earth_africa: Redes Sociais :earth_americas:</div>
+#### <div align="center">:earth_africa: Meios de Contato :earth_americas:</div>
 
 <p align="center"> 
 <a alt="Gmail" href="mailto:adriwco@gmail.com"><img src="https://user-images.githubusercontent.com/80191040/185791246-a96e7322-3f00-4edf-9ffa-47d7bd002103.svg" width="48px"></a>
