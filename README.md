@@ -10,7 +10,7 @@
 
 #### <div align="center">Ferramentas que utilizo no meu dia ou noite 😅</div>
 
-##### <div align="">Linguagens de Programação</div>
+##### <div align="">Linguagens</div>
 <div align="">
   
   ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
