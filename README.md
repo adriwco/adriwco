@@ -10,7 +10,7 @@
 
 ---
 
-Aqui estão as tecnologias e ferramentas que utilizo no meu dia a dia:
+As tecnologias e ferramentas que utilizo no meu dia a dia:
 
 | Categoria | Tecnologias |
 | :--- | :--- |
